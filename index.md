@@ -13,3 +13,7 @@ for i in range(10):
   tot=+i
 print(i)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
